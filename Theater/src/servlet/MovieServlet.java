@@ -1,20 +1,16 @@
 package servlet;
 
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.security.interfaces.RSAKey;
 import java.util.ArrayList;
 
-import javax.jms.Session;
+
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.swing.plaf.basic.BasicTreeUI.TreeCancelEditingAction;
 
 import dao.MovieDao;
-import dao.SeatDao;
 
 import valuebean.MovieBean;
 import valuebean.RunningMovieBean;

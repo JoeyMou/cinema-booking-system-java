@@ -4,9 +4,3 @@
 		</div>
 	</body>
 </html>
-<!-- <?php -->
-<!-- 	if (isset($con))  -->
-<!-- 	{ -->
-<!-- 		mysql_close($con); -->
-<!-- 	} -->
-<!-- ?> -->

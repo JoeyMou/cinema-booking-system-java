@@ -3,8 +3,6 @@ package dao;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-import javax.persistence.criteria.Order;
-
 import toolsbean.DB;
 import valuebean.MovieBean;
 import valuebean.OrderBean;
